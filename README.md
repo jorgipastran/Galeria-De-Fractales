@@ -1,1 +1,1 @@
-# Galeria-De-Fractales Jorgi
+# Galeria-De-Fractales
